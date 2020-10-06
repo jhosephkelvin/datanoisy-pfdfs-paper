@@ -9,10 +9,10 @@ The "Datasets" folder contains three files referring to databases, namely:
 2. Datasets_ASOC2020_Noise_IA.mat: Cell with 15 databases, for each noise rate (10%, 30% and 50%), with the insertion of artificial noise without changing the pre-existing features, used in the article. [Regarding Insertion Analysis / AI]
 3. Datasets_ASOC2020_Noise_TA.mat: Cell with the 15 databases, for each noise rate (10%, 30% and 50%), with the transformation of the original features into noise, used in the paper. [Regarding Transformation Analysis / AT]
 
-For further information and questions, contact: jhoseph.kelvin@gmail.com
+For further information and questions, please contact: jhoseph.kelvin@gmail.com
+
 
 A brief description of the application domains for each dataset is presented as follows.
-
 
 B01 item {LSVT}: LSVT dataset is composed of 126 instances of vowel phonation /a/ with 310 dysphonia measure to characterize speech signals of individuals with Parkinson disease as acceptable (84 instances) or unacceptable (42 instances).
 			    				     
