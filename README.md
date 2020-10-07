@@ -9,8 +9,7 @@ The "Datasets" folder contains three files referring to databases, namely:
 2. Datasets_ASOC2020_Noise_IA.mat: Cell with 15 databases, for each noise rate (10%, 30% and 50%), with the insertion of artificial noise without changing the pre-existing features, used in the article. [Regarding Insertion Analysis / AI]
 3. Datasets_ASOC2020_Noise_TA.mat: Cell with the 15 databases, for each noise rate (10%, 30% and 50%), with the transformation of the original features into noise, used in the paper. [Regarding Transformation Analysis / AT]
 
-For further information and questions, please contact: jhoseph.kelvin@gmail.com
-
+In this experimental analysis, we selected 15 datasets of distinctive areas, such as bioinformatics, signature images, text data, and signal processing. We attempt to include datasets with different natures in terms of instances, features, and classes. The datasets were collected from five repositories: OpenML (OpML) [1],  Bioinformatics Research Group of Seville repository (BIGS) [2], UCI Machine Learning (UCI) [3], Ludmila Kuncheva Collection (LKC) [4], and Arizona State University (ASU) [5].
 
 A brief description of the application domains for each dataset is presented as follows.
 
@@ -41,4 +40,20 @@ B13 {Laryngeal1}: The Laryngeal1 dataset contains different signals captured fro
 B14 {Weaning}: Weaning is a dataset that stores 302 instances with information about patients with respiratory failure, users of artificial ventilation. From these data, patients are classified as fit (151 instances) or unfit (151 instances) to start hospital feeding.
     
 B15 {SPECTF HEART}: The SPECTF Heart dataset aims to identify the normality of images from Proton Emission Computed Tomography (SPECTF), classifying them as normal (55 instances) or abnormal (212 instances). The instances were gathered from patient exams, totaling 267 instances characterized by 44 continuous features.
+
+For further information and questions, please contact: jhoseph.kelvin@gmail.com
+						       anne@dimap.ufrn.br
+						       daniel@imd.ufrn.br
+
+REFERENCES
+
+[1]  J. Vanschoren, J. N. van Rijn, B. Bischl, L. Torgo, Openml:  Networked science in machine learning, SIGKDD Explorations 15 (2) (2013) 49-60. doi:10.1145/2641190.2641198. URL http://doi.acm.org/10.1145/2641190.2641198
+
+[2]  B. G. Seville, BIGS bioinformatics research group of seville repository (2004).
+
+[3]  D.  Dheeru,  E.  Karra  Taniskidou,  UCI  machine  learning  repository (2017). URL http://archive.ics.uci.edu/ml
+
+[4]  L. Kuncheva, Ludmila k. collection lkc (2004).URL http://pages.bangor.ac.uk/~mas00a/activities/real_data.htm
+
+[5]  J. Li, K. Cheng, S. Wang, F. Morstatter, T. Robert, J. Tang, H. Liu,Feature selection:  A data perspective, arXiv:1601.07996 (2016).
     
