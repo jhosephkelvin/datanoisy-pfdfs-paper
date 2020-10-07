@@ -41,9 +41,9 @@ B14 {Weaning}: Weaning is a dataset that stores 302 instances with information a
     
 B15 {SPECTF HEART}: The SPECTF Heart dataset aims to identify the normality of images from Proton Emission Computed Tomography (SPECTF), classifying them as normal (55 instances) or abnormal (212 instances). The instances were gathered from patient exams, totaling 267 instances characterized by 44 continuous features.
 
-For further information and questions, please contact: jhoseph.kelvin@gmail.com
-						       anne@dimap.ufrn.br
-						       daniel@imd.ufrn.br
+For further information and questions, please contact: jhoseph.kelvin@gmail.com,
+						       anne@dimap.ufrn.br,
+						       daniel@imd.ufrn.br.
 
 REFERENCES
 
